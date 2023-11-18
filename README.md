@@ -72,8 +72,8 @@
             <td>Los hackers de sombrero gris también exponen vulnerabilidades y reportan problemas a sus dueños. Pero, estos usuarios nunca han pedido permiso para realizar los ataques.</td>
         </tr>
     </table>
+    <p><img src="https://www.colegiojurista.com/blog/wp-content/uploads/2022/07/hackers-300x300.jpg" alt="Hacker" style="width: 212px;">
 </section>
-<p><img src="https://www.colegiojurista.com/blog/wp-content/uploads/2022/07/hackers-300x300.jpg" alt="Hacker" style="width: 212px;">
     <footer>
         <p>Mario Torrente López</p>
     </footer>
